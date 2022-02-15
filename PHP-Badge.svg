@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="58" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#1caceb" d="M25 0h33v20H25z"/>
+        <path fill="url(#b)" d="M0 0h58v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2cHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9IjAgLTYxIDI1NiAyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pbllNaW4gbWVldCI+PGcgZmlsbC1ydWxlPSJldmVub2RkIj48ZWxsaXBzZSBmaWxsPSIjODk5M0JFIiBjeD0iMTI4IiBjeT0iNjYuNjMiIHJ4PSIxMjgiIHJ5PSI2Ni42MyIvPjxwYXRoIGQ9Ik0zNS45NDUgMTA2LjA4MmwxNC4wMjgtNzEuMDE0SDgyLjQxYzE0LjAyNy44NzcgMjEuMDQxIDcuODkgMjEuMDQxIDIwLjE2NSAwIDIxLjA0MS0xNi42NTcgMzMuMzE1LTMxLjU2MiAzMi40MzhINTYuMTFsLTMuNTA3IDE4LjQxMUgzNS45NDV6bTIzLjY3MS0zMS41NjFMNjQgNDguMjE5aDExLjM5N2M2LjEzNyAwIDEwLjUyIDIuNjMgMTAuNTIgNy44OS0uODc2IDE0LjkwNS03Ljg5IDE3LjUzNS0xNS43OCAxOC40MTJoLTEwLjUyek0xMDAuMTkyIDg3LjY3MWwxNC4wMjctNzEuMDEzaDE2LjY1OGwtMy41MDcgMTguNDFoMTUuNzhjMTQuMDI4Ljg3NyAxOS4yODggNy44OSAxNy41MzUgMTYuNjU4bC02LjEzNyAzNS45NDVoLTE3LjUzNGw2LjEzNy0zMi40MzhjLjg3Ni00LjM4NC44NzYtNy4wMTQtNS4yNi03LjAxNEgxMjQuNzRsLTcuODkgMzkuNDUyaC0xNi42NTh6TTE1My40MjUgMTA2LjA4MmwxNC4wMjctNzEuMDE0aDMyLjQzOGMxNC4wMjguODc3IDIxLjA0MiA3Ljg5IDIxLjA0MiAyMC4xNjUgMCAyMS4wNDEtMTYuNjU4IDMzLjMxNS0zMS41NjIgMzIuNDM4aC0xNS43ODFsLTMuNTA3IDE4LjQxMWgtMTYuNjU3em0yMy42Ny0zMS41NjFsNC4zODQtMjYuMzAyaDExLjM5OGM2LjEzNyAwIDEwLjUyIDIuNjMgMTAuNTIgNy44OS0uODc2IDE0LjkwNS03Ljg5IDE3LjUzNS0xNS43OCAxOC40MTJoLTEwLjUyMXoiIGZpbGw9IiMyMzI1MzEiLz48L2c+PC9zdmc+"/>
+        <text x="40.5" y="14.6" fill="#010101" fill-opacity=".3">PHP</text>
+        <text x="40.5" y="14">PHP</text>
+    </g>
+</svg>
