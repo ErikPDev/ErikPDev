@@ -1,4 +1,4 @@
-# ErikPDev
+<h1 align="center"> ErikPDev </h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ErikPDev&margin-w=28&margin-h=15" />
 </p>
