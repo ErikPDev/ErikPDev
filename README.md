@@ -21,6 +21,10 @@ I don't do paid work, everything here is free.
 <img src="https://github-readme-stats.vercel.app/api?username=ErikPDev&count_private=false">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikPDev">
 </p>
+<div>
+  <h3>Vistors Count</h3>
+  <img src="https://profile-counter.glitch.me/{erikpdev}/count.svg">
+</div>
 
 # Want me to create a plugin?
 Send me a message on Discord or https://forums.pmmp.io
