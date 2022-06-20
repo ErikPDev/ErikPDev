@@ -1,4 +1,4 @@
-<h1 align="center"> ErikPDev - ErikPDev#3550</h1>
+<h1 align="center"> ErikPDev - ErikPDev#3550 - Do you know what discord is?</h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ErikPDev&margin-w=28&margin-h=15" />
 </p>
