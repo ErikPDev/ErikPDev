@@ -1,4 +1,4 @@
-<h1 align="center"> ErikPDev - Hi there XxLavenderxX333</h1>
+<h1 align="center"> ErikPDev - ErikPDev#3550</h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ErikPDev&margin-w=28&margin-h=15" />
 </p>
@@ -42,6 +42,7 @@ const ErikPDev = {
     "age": "REDACTED",
     "title": "Developer",
     "poggit"": "https://poggit.pmmp.io/plugins/by/ErikPDev",
-    "PMMP-Forum Name":"Axon"
+    "PMMP-Forum Name":"Axon",
+    "discord": "ErikPDev#3550"
 }
 ```
