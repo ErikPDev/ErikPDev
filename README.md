@@ -14,26 +14,18 @@
 </p>
 
 
-A pocketmine developer. Currently working on [AdvanceDeaths](https://poggit.pmmp.io/p/AdvanceDeaths) and some private projects.
-
-I don't do paid work, everything here is free.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ErikPDev&count_private=false">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikPDev">
 </p>
-<div>
+<div align="center">
   <h3>Vistors Count</h3>
   <img src="https://profile-counter.glitch.me/{erikpdev}/count.svg">
 </div>
 
-# Want me to create a plugin?
-Send me a message on Discord or https://forums.pmmp.io
-
 # Public Poggit plugins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikPDev&repo=AdvanceDeaths)](https://poggit.pmmp.io/p/AdvanceDeaths)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikPDev&repo=Sudo)](https://poggit.pmmp.io/Sudo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikPDev&repo=VoteParty)](https://poggit.pmmp.io/p/VoteParty)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikPDev&repo=CovidUI)](https://poggit.pmmp.io/p/CovidUI)
 
 Profile: 
 ```javascript
@@ -46,3 +38,5 @@ const ErikPDev = {
     "discord": "ErikPDev#3550"
 }
 ```
+
+`Stats tells more than writing`
