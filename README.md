@@ -27,16 +27,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikPDev&repo=AdvanceDeaths)](https://poggit.pmmp.io/p/AdvanceDeaths)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikPDev&repo=Sudo)](https://poggit.pmmp.io/Sudo)
 
-Profile: 
-```javascript
-const ErikPDev = {
-    "Name": "Erik",
-    "age": "REDACTED",
-    "title": "Developer",
-    "poggit"": "https://poggit.pmmp.io/plugins/by/ErikPDev",
-    "PMMP-Forum Name":"Axon",
-    "discord": "ErikPDev#3550"
-}
-```
 
 `Stats tells more than writing`
