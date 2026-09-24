@@ -24,7 +24,7 @@ else needs to stay online.
 🎓 AP Degree, Computer Science @ Syddansk Erhvervsakademi
 🔭 Currently maintaining university lab infrastructure
 🌱 Currently deepening IT & Cyber Systems + backend engineering
-⚡ Programming since age 12, systems administration ever since
+⚡ Programming since age 10, systems administration ever since
 ```
 
 ---
